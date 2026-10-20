@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1976
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000000,
+http://siger-1.streams.my.id/volitv/1NYpynnHOr7o7TSsrf7eMa6IJ6t8zapJmY2kxHgZuYuKgfe1tmHMDVMF5zRk4N6yY8r6Aq9c7-oU7UYxlVPxKv8G_S_PXSA3JmaTSH-iJLOhe6HGwU07fxRSH05DaEao.txt
+#EXTINF:10.000000,
+http://siger-1.streams.my.id/volitv/1NYpynnHOr7o7TSsrf7eMa6IJ6t8zapJmY2kxHgZuYsb7LIkycsifhFdxeEZsa7AbTU7vQ4_HZrVzn6dWs7Ky8A7fqpSseafBq0xH8SKyMd7wtdwbMw01u6AuB2yyq2T.txt
+#EXTINF:10.000000,
+http://siger-1.streams.my.id/volitv/1NYpynnHOr7o7TSsrf7eMa6IJ6t8zapJmY2kxHgZuYsyXdLjT87UalSgdPckQZJeArUGqrlu98NEwfVo8ayVLHqSnaDzUBnh6ipBo4wSU5yv4eYgFGYzWwY1HlaWsxD0.txt
+#EXTINF:10.000000,
+http://siger-1.streams.my.id/volitv/1NYpynnHOr7o7TSsrf7eMa6IJ6t8zapJmY2kxHgZuYunL5eB0xjPR1D67rSDvDBpyr1wJN3N1WQSJh3Z4jsnbG-alKweiK1uzHeRN-QPWxWt3KJbGYlSms5dIlweA7uA.txt
+#EXTINF:10.000000,
+http://siger-1.streams.my.id/volitv/1NYpynnHOr7o7TSsrf7eMa6IJ6t8zapJmY2kxHgZuYvmXBwxN-3i9mkA0JM95k97T3UPdBCKJP51Yv-eFbjVWvZ5J9M1CIP77t2VfNSG3QwgWDb_VZUunk4WZZBpqVyf.txt
+#EXTINF:10.000000,
+http://siger-1.streams.my.id/volitv/1NYpynnHOr7o7TSsrf7eMa6IJ6t8zapJmY2kxHgZuYtLB_d5CzqzLz5y9nWYvbKAR865DJqEsiQw0s4Rv5klfkhBiP7wM0pcc3o1bBv2rFZc4MPAQ1vN1uhn3u_hzZDN.txt
